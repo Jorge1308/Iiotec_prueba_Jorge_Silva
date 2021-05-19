@@ -18,7 +18,8 @@ To run the system locally you need:
 
 1. Clone the project in the xampp htdocs folder. `https://github.com/Jorge1308/Iiotec_prueba_Jorge_Silva.git`
 2. Run the `composer install` command from the console to install the PHP
-3. We put in the browser the address of the folder in which the project is located.
+3. We put in the browser the address of the folder in which the project is located. `http://localhost/Iiotec_prueba_Jorge_Silva/App/View/`
+4. O se puede ejecutar desde consola en el fichero del proyecto carpeta `App/View/index.php` 
 
 ### Architecture
 
